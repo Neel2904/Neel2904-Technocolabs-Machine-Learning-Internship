@@ -1,1 +1,1 @@
-# Neel2904-Technocolabs-Machine-Learning-Internship
+# Technocolabs-Machine-Learning-Internship
